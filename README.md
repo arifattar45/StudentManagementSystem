@@ -50,26 +50,6 @@ http://localhost:8080/
 
 ================================================================
 
-📁 Project Structure
-
-studentmanagementsystem/
-├── src/
-│   ├── main/
-│   │   ├── java/
-│   │   │   └── com/
-│   │   │       └── StudentManagementSystem/
-│   │   │           ├── controller/
-│   │   │           ├── model/
-│   │   │           ├── repository/
-│   │   │           └── service/
-│   │   │           └── StudentManagementSystemApplication.java
-│   │   └── resources/
-│   │       ├── templates/ (JSP or HTML files)
-│   │       └── application.properties
-└── README.md
-
-================================================================
-
 ## 📸 Screenshots
 
 ### 🎓 Dashboard Page
