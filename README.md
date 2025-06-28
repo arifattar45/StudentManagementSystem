@@ -74,7 +74,7 @@ studentmanagementsystem/
 
 ### 🎓 Dashboard Page
 
-![Student Management Dashboard](./assets/screenshot.png)
+![Student Management Dashboard](./assets/Screenshot_img.png)
 
 
 📌 Note
